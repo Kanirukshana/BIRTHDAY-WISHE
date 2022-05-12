@@ -1,4 +1,4 @@
-.body_backgorund 
+.body_background 
 {
     background-image:url(hOye.gif);
     background-position:center;
@@ -6,6 +6,6 @@
 }
 #myCanvas
 {
-   
+   background-color: aliceblue;
 }
 
